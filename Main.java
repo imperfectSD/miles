@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        int ticket_price = 125_000;
-        int mile_cost = 20;
-        int accumulated_miles = ticket_price / mile_cost;
+        int ticketPrice = 125_000;
+        int mileCost = 20;
+        int accumulatedMiles = ticketPrice / mileCost;
 
-        System.out.println(accumulated_miles);
+        System.out.println(accumulatedMiles);
     }
 }
